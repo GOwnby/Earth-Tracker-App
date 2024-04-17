@@ -1,0 +1,29 @@
+<html>
+    <head>
+        {% load static %}
+        <link rel="stylesheet" href="{% static "stylesheets/EarthTracker.css" %}" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <script src="{% static "js/getJSON.js" %}"></script>
+        <script src="https://www.gstatic.com/charts/loader.js"></script>
+        <script src="{% static "js/graph.js" %}"></script>
+    </head>
+
+    <body>
+        <a id="LoadData" href="/LoadData/"><button>Load Data</button></a>
+        <br>
+        <a id="WriteData" href="/WriteData/"><button>Write Data</button></a>
+        <br>
+        <a id="LearnData" href="/LearnData/"><button>Learn Data</button></a>
+        <br>
+        <div id="SelectorHolder">
+            <button id="CO2Selector">CO2</button>
+            <button id="N2OSelector">N2O</button>
+            <button id="CH4Selector">CH4</button>
+            <button id="CFC11Selector">CFC-11</button>
+            <button id="CFC12Selector">CFC-12</button>
+            <button id="TemperatureSelector">Temperature</button>
+        </div>
+
+        <div id="linechart_"></div>
+    </body>
+</html>

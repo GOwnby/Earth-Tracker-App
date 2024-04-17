@@ -1,0 +1,15 @@
+CO2 Data:
+https://www.esrl.noaa.gov/gmd/ccgg/trends/data.html
+N2O Data:
+https://www.esrl.noaa.gov/gmd/hats/combined/N2O.html
+CH4 Data:
+https://www.esrl.noaa.gov/gmd/ccgg/trends_ch4/
+CFC-11 Data:
+https://www.esrl.noaa.gov/gmd/hats/combined/CFC11.html
+CFC-12 Data:
+https://www.esrl.noaa.gov/gmd/hats/combined/CFC12.html
+Radiative Forcing Calculations:
+https://www.esrl.noaa.gov/gmd/aggi/aggi.html
+Global Energy Balance:
+http://www.geo.utexas.edu/courses/387H/Lectures/chap2.pdf
+https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf

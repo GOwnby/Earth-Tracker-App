@@ -1,0 +1,51 @@
+#load {
+    margin-top: 2%;
+}
+
+#linechart_ {
+    width: 900px; 
+    height: 500px;
+}
+
+#SelectorHolder {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#CO2Selector {
+    font-size: x-large;
+    width: 9%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#N2OSelector {
+    font-size: x-large;
+    width: 9%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#CH4Selector {
+    font-size: x-large;
+    width: 9%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#CFC11Selector {
+    font-size: x-large;
+    width: 9%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#CFC12Selector {
+    font-size: x-large;
+    width: 9%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#TemperatureSelector {
+    font-size: x-large;
+    width: 9%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
