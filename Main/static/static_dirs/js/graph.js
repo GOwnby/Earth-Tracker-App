@@ -307,18 +307,7 @@ function loadCFC11() {
         startYear = (year - 1);
     }
 
-    if (CFC11DataBasicProjection.hasOwnProperty((year + 100 - 1).toString())){
-        endYear = (year + 100 - 1);
-    }
-    if (CFC11DataBasicProjection.hasOwnProperty((year + 100).toString())){
-        endYear = (year + 100);
-    }
-    if (CFC11DataBasicProjection.hasOwnProperty((year + 100 + 1).toString())){
-        endYear = (year + 100 + 1);
-    }
-    if (CFC11DataBasicProjection.hasOwnProperty((year + 100 + 2).toString())){
-        endYear = (year + 100 + 2);
-    }
+    endYear = year + 60;
 
     for (i = startYear; i <= endYear; i = i + 1) {
         stringI = i.toString();
@@ -379,18 +368,7 @@ function loadCFC12() {
         startYear = (year - 1);
     }
 
-    if (CFC12DataBasicProjection.hasOwnProperty((year + 100 - 1).toString())){
-        endYear = (year + 100 - 1);
-    }
-    if (CFC12DataBasicProjection.hasOwnProperty((year + 100).toString())){
-        endYear = (year + 100);
-    }
-    if (CFC12DataBasicProjection.hasOwnProperty((year + 100 + 1).toString())){
-        endYear = (year + 100 + 1);
-    }
-    if (CFC12DataBasicProjection.hasOwnProperty((year + 100 + 2).toString())){
-        endYear = (year + 100 + 2);
-    }
+    endYear = year + 60;
 
     for (i = startYear; i <= endYear; i = i + 1) {
         stringI = i.toString();
