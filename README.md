@@ -7,8 +7,8 @@ The program may be used to generate the following examples in the interactive we
 ![Screenshot 2024-04-17 122646](https://github.com/GOwnby/Earth-Tracker-App/assets/37450012/e5d2d077-5fb5-4bcf-a6ec-73b0400d6f2e)
 ![Screenshot 2024-04-17 122718](https://github.com/GOwnby/Earth-Tracker-App/assets/37450012/e237b5db-a24a-4f02-99de-4f7ee5e0b750)
 ![Screenshot 2024-04-17 122739](https://github.com/GOwnby/Earth-Tracker-App/assets/37450012/a63ee4d2-f66c-4bb9-b61f-26214f492850)
-![Screenshot 2024-04-17 122758](https://github.com/GOwnby/Earth-Tracker-App/assets/37450012/b92b8616-1909-40d3-8534-61078bb75ad7)
-![Screenshot 2024-04-17 122818](https://github.com/GOwnby/Earth-Tracker-App/assets/37450012/1d58ab80-3199-4ee0-9764-977150243c61)
+![Screenshot 2024-04-18 124531](https://github.com/GOwnby/Earth-Tracker-App/assets/37450012/599fb8dc-3ae6-458b-8a9c-06ca3fb44013)
+![Screenshot 2024-04-18 124515](https://github.com/GOwnby/Earth-Tracker-App/assets/37450012/4eb479a6-ac49-4910-9531-ee2f70657b77)
 ![Screenshot 2024-04-17 122908](https://github.com/GOwnby/Earth-Tracker-App/assets/37450012/4a66cc27-bf46-4d0f-b2e2-f08baa99d2d3)
 
 # Setting up the application
