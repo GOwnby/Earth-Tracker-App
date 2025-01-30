@@ -13,7 +13,7 @@ SECRET_KEY = 'some-key'
 # With Debug True, Django will handle static files
 # With Debug False, your production web server must handle serving of static files
 # Therefore, make sure to run this application with DEBUG = True if you are in a local environment
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1']
 
